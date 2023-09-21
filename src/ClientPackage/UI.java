@@ -15,7 +15,7 @@ public class UI {
     }
     static void printMenu()
     {
-        System.out.println("-----------");
+        System.out.println("Something has changed and you'll never know what huh");
         System.out.println("1 - Get rooms list");
         System.out.println("2 - Place an order");
         System.out.println("3 - Pay an order");
