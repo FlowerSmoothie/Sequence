@@ -10,7 +10,9 @@ import static Lab.main.rd;
 
 public class UI {
 
-
+    static void helloMsg() {
+        System.out.println("Hello, user");
+    }
     static void printMenu()
     {
         System.out.println("-----------");
